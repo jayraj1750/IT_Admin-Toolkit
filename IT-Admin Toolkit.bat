@@ -4,7 +4,7 @@ mode con: cols=95 lines=40
 color 1f
 
 :: ==================== LOGIN CREDENTIALS ====================
-set "username=Jayraj"
+set "username=admin"
 set "password=123"
 
 :: Check for administrator privileges
